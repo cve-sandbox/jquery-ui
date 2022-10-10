@@ -2,6 +2,8 @@
 
 CVE Collection of jQuery UI XSS Payloads
 
+> Maintained by [@therceman](https://twitter.com/therceman)
+
 | CVE | Version | Details |
 | ------------- | ------------- | ------------- |
 | [CVE-2022-31160](https://github.com/cve-sandbox/jquery-ui/blob/main/CVE-2022-31160/index.html) | < 1.13.2 | [View on Snyk](https://security.snyk.io/vuln/SNYK-JS-JQUERYUI-2946728) |
