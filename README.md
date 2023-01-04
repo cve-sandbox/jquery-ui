@@ -13,3 +13,7 @@ CVE Collection of jQuery UI XSS Payloads
 | [CVE-2016-7103](https://github.com/cve-sandbox/jquery-ui/blob/main/CVE-2016-7103/index.html) | < 1.12.0 | [View on Snyk](https://security.snyk.io/vuln/npm:jquery-ui:20160721) |
 | [CVE-2012-6662](https://github.com/cve-sandbox/jquery-ui/blob/main/CVE-2012-6662/index.html) | < 1.10.0 | [View on Snyk](https://security.snyk.io/vuln/npm:jquery-ui:20121127) |
 | [CVE-2010-5312](https://github.com/cve-sandbox/jquery-ui/blob/main/CVE-2010-5312/index.html) | < 1.10.0 | [View on Snyk](https://security.snyk.io/vuln/npm:jquery-ui:20100903) |
+
+![image](https://user-images.githubusercontent.com/13289710/210627107-2ad965f7-bf75-40ed-8490-002af637debf.png)
+
+![image](https://user-images.githubusercontent.com/13289710/210627133-92322d35-8f89-41ed-8363-36a32e396512.png)
